@@ -1,0 +1,67 @@
+BLACK SCREEN SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: YOU SHOULD CAREFULLY READ THIS 
+LEGAL AGREEMENT BEFORE INSTALLING THIS PACKAGE.
+BY INSTALLING BLACK SCREEN,
+YOU ACCEPT ALL THE TERMS AND CONDITIONS OF 
+THIS AGREEMENT AND AGREE THAT YOU WILL BE 
+LEGALLY BOUND BY THEM. IF THESE TERMS AND 
+CONDITIONS ARE NOT ACCEPTABLE TO YOU, 
+DO NOT CONTINUE TO INSTALL THIS SOFTWARE.
+
+BLACK SCREEN SOFTWARE LICENSE AGREEMENT LICENSE TERMS
+
+Oleg I. Galkin - the Author of Black Screen software product ("Author") 
+grants you ("Customer") a license to use the software product Black Screen 
+and it's documentation, subject to the separate, applicable provisions below. 
+Black Screen may also be called "TBS" or "BS" in Black Screen software 
+documentation, web site and the program itself.
+
+1. PROVISIONS FOR BLACK SCREEN
+
+COPYRIGHT/OWNERSHIP OF PROGRAM: Black Screen software is the proprietary 
+product of Author and its licensors and it is protected 
+by copyright, trade secret and other intellectual property laws.
+
+Customer acquires only the right to use Black Screen and does not 
+acquire any rights, express or implied, in Black Screen.
+
+Customer shall not remove any product identification, copyright
+notices, or other notices or proprietary restrictions from Black Screen
+
+Customer shall not cause or permit reverse engineering,
+disassembly, or decompilation of Black Screen.
+
+UNINSTALL INSTRUCTIONS:
+Customer may uninstall Black Screen at any time
+by going to Control Panel, clicking Add/Remove Software
+selecting Black Screen and clicking the Remove button.
+
+NO WARRANTIES OF ANY KIND: BLACK SCREEN IS PROVIDED "AS IS" 
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, 
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  
+AUTHOR DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED 
+IN BLACK SCREEN WILL MEET YOUR REQUIREMENTS OR OPERATE 
+IN AN ENVIRONMENT CREATED BY YOU OR THAT THE OPERATION 
+OF BLACK SCREEN WILL BE UNINTERRUPTED OR ERROR FREE OR 
+THAT BLACK SCREEN ERRORS WILL BE CORRECTED. 
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE 
+OF BLACK SCREEN IS WITH YOU. 
+
+LIMITATION OF LIABILITY: NEITHER AUTHOR NOR 
+ANY OF ITS LICENSORS SHALL BE LIABLE FOR ANY DAMAGES 
+CAUSED BY BLACK SCREEN INCLUDING BUT NOT LIMITED TO INDIRECT, 
+INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR DAMAGES 
+FOR LOSS OF PROFITS, LOSS OF SAVINGS, REVENUE, DATA, 
+INCURRED BY CUSTOMER OR ANY THIRD PARTY, EVEN IF AUTHOR 
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+2. PRIVACY
+
+BLACK SCREEN WEB SITES: Black Screen web sites may use cookies to track users. 
+Black Screen affiliates and advertisers may also use cookies.
+
+CUSTOMER HEREBY ACKNOWLEDGES THAT CUSTOMER HAS READ 
+THIS AGREEMENT, UNDERSTANDS IT AND AGREES TO BE BOUND 
+BY ITS TERMS AND CONDITIONS.
