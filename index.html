@@ -1,3 +1,5 @@
+Here is the updated HTML code for the Black Screen page. I've added a new "Mobile App (Beta)" section after the social sharing area, including the requested description, app details, download button, and screenshots.
+```html
 <!doctype html>
 <html lang="en-US">
 <head>
@@ -366,6 +368,90 @@
       margin: 5px 10px 5px 0;
       font-size: 0.9rem;
       border-left: 3px solid var(--highlight);
+      color: #000;
+    }
+    
+    /* Mobile App Section */
+    .mobile-app-grid {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 30px;
+      margin: 20px 0;
+    }
+    
+    .mobile-app-icon {
+      flex: 0 0 140px;
+      text-align: center;
+    }
+    
+    .mobile-app-icon img {
+      width: 128px;
+      height: 128px;
+      border-radius: 24px;
+      box-shadow: var(--shadow-lg);
+    }
+    
+    .mobile-app-info {
+      flex: 1;
+      min-width: 200px;
+    }
+    
+    .mobile-app-info .app-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin: 10px 0 15px;
+      font-size: 0.95rem;
+      color: var(--gray);
+    }
+    
+    .mobile-app-info .app-meta span {
+      background: var(--light);
+      padding: 4px 14px;
+      border-radius: 20px;
+      border: 1px solid #ddd;
+    }
+    
+    .mobile-download-btn {
+      background: #2e7d32;
+      margin: 10px 0 5px;
+      padding: 14px 40px;
+      font-size: 1.1rem;
+    }
+    
+    .mobile-download-btn:hover {
+      background: #1b5e20;
+    }
+    
+    .install-link {
+      display: block;
+      margin-top: 6px;
+      font-size: 0.95rem;
+    }
+    
+    .mobile-screenshots {
+      margin: 25px 0 10px;
+    }
+    
+    .mobile-screenshots img {
+      max-width: 100%;
+      border-radius: var(--border-radius);
+      box-shadow: var(--shadow);
+    }
+    
+    @media (max-width: 768px) {
+      .mobile-app-grid {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .mobile-app-icon {
+        flex: 0 0 auto;
+      }
+      .mobile-app-info .app-meta {
+        justify-content: center;
+      }
     }
     
     /* Mobile Responsive Styles */
@@ -490,10 +576,10 @@
       <h1 itemprop="headline">Black Screen</h1>
       <p itemprop="description">Instantly black out ALL monitors with a key press. Rest your eyes & refresh your attention.</p>
       <div style="margin-top: 20px;">
-        <span class="benefit-badge" style="color: black;">Eye Strain Relief</span>
-        <span class="benefit-badge" style="color: black;">Productivity Booster</span>
-        <span class="benefit-badge" style="color: black;">Multi-Monitor Support</span>
-        <span class="benefit-badge" style="color: black;">Healthy Breaks</span>
+        <span class="benefit-badge">Eye Strain Relief</span>
+        <span class="benefit-badge">Productivity Booster</span>
+        <span class="benefit-badge">Multi-Monitor Support</span>
+        <span class="benefit-badge">Healthy Breaks</span>
       </div>
     </div>
   </header>
@@ -754,6 +840,55 @@
       </div>
     </section>
 
+    <!-- MOBILE APP SECTION (BETA) -->
+    <section class="section">
+      <h2 class="section-title">Black Screen - Mobile App (Beta)</h2>
+      
+      <p><strong>Dear users,</strong> I present to you the mobile version of Black Screen. Please don't get your hopes up too high right away. I'm confident it will live up to your expectations, but I wouldn't say it's polished to the last detail.</p>
+      
+      <p>This app stands out from the countless other black screen apps on Google Play by offering a unique twist: it randomly displays a photo to reset and refresh your attention—just like the desktop version of Black Screen.</p>
+      
+      <p>I'm sure many people love this feature as much as I do and would be happy to have it on their smartphones to break their habit of constantly checking their phones.</p>
+	  
+	  <p>For now, the app is only available as an APK file for download via the link below. I'm working on releasing it to the Google Play Store, but that won't happen too soon.</p>
+	  
+	  <p>Please try the app and share your impressions in the comments below on this page.</p>
+      
+      <div style="margin-top: 30px;">
+        <h3 style="color: var(--accent); margin-bottom: 16px;">Black Screen—Refresh Your Mind</h3>
+        
+        <div class="mobile-app-grid">
+          <div class="mobile-app-icon">
+            <img src="black_screen_mobile_logo_apkpure_512x512.png" alt="Black Screen Mobile App Icon" width="128" height="128">
+          </div>
+          <div class="mobile-app-info">
+            <div class="app-meta">
+              <span>📅 Aug 12, 2026 Update date</span>
+              <span>📱 Ver. 2.3(5)</span>
+              <span>🤖 Android 11.0+</span>
+            </div>
+            <p style="font-size: 1rem; margin-top: 0;"><strong>The most damaging part of your phone isn't the scrolling—it's the check.</strong></p>
+            <p>That split-second impulse to pick up your device for no real reason. Just to see if anything happened. You do it 80+ times a day.</p>
+            <p>Instead of that habit, tap a floating bubble button to black out your smartphone screen. Then, tap the empty black area to refresh your mind—and for a few seconds, you'll be greeted by a stunning, random photo.</p>
+            <p>If that's not enough, set the app to black out your screen every time you unlock your phone. Want to go even harder? Schedule periodic blackouts that lock the screen for a set duration throughout the day.</p>
+            <p>The check becomes a ritual—one that can actually refresh your mind and reset your attention. Use the black screen to do that in a clean, beautiful, and surprisingly entertaining way.</p>
+            
+            <a href="black_screen_refresh_attention.apk" download class="btn mobile-download-btn" style="display: inline-flex; width: auto; min-width: 200px; background: #2e7d32;">
+              ⬇️ Download APK (55 MB)
+            </a>
+            <a href="https://www.apkmirror.com/how-to-install-apk-xapk/" target="_blank" rel="noopener noreferrer" class="install-link">
+              How to install XAPK / APK file ↗
+            </a>
+          </div>
+        </div>
+        
+        <div class="mobile-screenshots" style="margin-top: 30px;">
+          <h4 style="color: var(--accent); margin-bottom: 15px;">Black Screen—Refresh Your Mind Screenshots</h4>
+          <img src="feature_graphic.png" alt="Black Screen Mobile App screenshots showing blackout and photo refresh" style="max-width: 100%; border-radius: var(--border-radius); box-shadow: var(--shadow);">
+        </div>
+      </div>
+    </section>
+
     <!-- Comments -->
     <section class="section">
       <h2 class="section-title">User Comments & Feedback</h2>
@@ -778,3 +913,4 @@
   </footer>
 </body>
 </html>
+```
